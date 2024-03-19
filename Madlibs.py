@@ -7,8 +7,7 @@ print(f"Hello this is a {word}")    # Best Practice
 
 adj1 = input("Adjective: ")
 verb1 = input("Verb: ")
-noun1 = input("Noun: ")
 
-madlib = f"Batman is {adj1}. He is {verb1} every Night and knows how to {noun1}."
+madlib = f"Compute programming is so {adj1}. It makes me so excited all the time because I love to {verb1}."
 
 print(madlib)
